@@ -15,3 +15,12 @@ To run the BombSquad server using these files:
 4. Run the server using:
    ```sh
    python bombsquad_server.py
+
+
+## Contributions 🤝
+Feel free to contribute by submitting a pull request.
+
+## License 📜
+This project is licensed under the MIT License.
+
+---
