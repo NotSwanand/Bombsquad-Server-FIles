@@ -1,0 +1,3 @@
+vipHashes = []
+adminHashes = []
+ownerHashes =[]

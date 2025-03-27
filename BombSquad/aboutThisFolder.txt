@@ -1,0 +1,1 @@
+You can drop files in here to mod BombSquad.  See settings/advanced in the game for more info.
